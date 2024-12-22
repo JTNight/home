@@ -1,7 +1,7 @@
 ---
 layout: work
 title: About Me
-slug: /aboutme
+slug: /me
 items:
   - title: My Interest 1
     image:
