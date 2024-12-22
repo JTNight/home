@@ -21,30 +21,30 @@ footer:
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
+      value: jitao15138964075@gmail.com
     - type: wechat
-      value: YourWeChatUsername
+      value: 15138964075
       link: "#"
-  follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - type: github
-      name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
+  #follow:
+  #  - type: twitter
+  #    name: Twitter
+  #    link: http://twitter.com/YourTwitterUsername
+  #    username: "@YourTwitterUsername"
+  #  - type: facebook
+  #    name: Facebook
+  #    link: http://facebook.com/YourFacebookUsername
+  #  - type: linkedin
+  #    name: LinkedIn
+  #    link: http://linkedin.com/in/YourLinkedInUsername
+  #  - type: github
+  #    name: GitHub
+  #    link: http://github.com/YourGitHubUsername
+  #  - type: dribbble
+  #    name: Dribbble
+  #    link: https://dribbble.com/YourDribbbleUsername
+  #  - type: rss
+  #    name: RSS
+  #    link: /feed.xml
 
 # Build settings
 markdown: kramdown
