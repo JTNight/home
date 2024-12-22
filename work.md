@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: me
 title: About me
 slug: /me
 items:
