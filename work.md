@@ -1,7 +1,7 @@
 ---
-layout: work
+layout: me
 title: About me
-slug: /blog
+slug: /me
 items:
   - title: My Interest 1
     image:
