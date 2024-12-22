@@ -1,6 +1,6 @@
 ---
 layout: work
-title: About Me
+title: AboutMe
 slug: /me
 items:
   - title: My Interest 1
