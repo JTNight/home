@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: project
 title: project
 slug: /me
 items:
