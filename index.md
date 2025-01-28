@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>
-This is where you can learn about my personal academic information, including publications; projects; etc.
+This is where you can read about my personal academic information, including publications; projects; etc.
 </p>
 
 <p>
