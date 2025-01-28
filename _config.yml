@@ -13,8 +13,9 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: work
-    - name: Blog
+    - name: Some Project & Tech
+    - name: Some Publication
+    - name: Aboutme
 
 footer:
   show_powered_by: true
