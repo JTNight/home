@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Some Publication
+title: blog
 slug: /blog
 ---
 

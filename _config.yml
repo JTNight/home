@@ -13,8 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Some Project & Tech
-    - name: Some Publication
+    - name: work
+    - name: blog
     - name: About Me
 
 footer:
