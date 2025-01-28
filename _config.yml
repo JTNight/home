@@ -25,7 +25,7 @@ footer:
       value: jitao15138964075@gmail.com
     - type: wechat
       value: 15138964075
-      link: "#"
+      #link: "#"
   #follow:
   #  - type: twitter
   #    name: Twitter
