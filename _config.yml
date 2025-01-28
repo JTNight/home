@@ -15,7 +15,7 @@ header:
       slug: /
     - name: work
     - name: blog
-    - name: About Me
+    - name: aboutme
 
 footer:
   show_powered_by: true
