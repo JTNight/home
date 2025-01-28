@@ -15,7 +15,7 @@ header:
       slug: /
     - name: Some Project & Tech
     - name: Some Publication
-    - name: Aboutme
+    - name: About Me
 
 footer:
   show_powered_by: true
