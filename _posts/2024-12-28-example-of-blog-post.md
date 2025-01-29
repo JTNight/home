@@ -10,7 +10,11 @@ og_image: /assets/img/content/post-example/Banner.jpg
 <br />
 <br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
-frameborder="0" allowfullscreen></iframe>
+<video width="640" height="360" controls>
+  <source src="{{ "/assets/videos/signal anysis.mp4" | relative_url }}" type="video/mp4">
+  <source src="{{ "/assets/videos/signal anysis.ogg" | relative_url }}" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
 
 
