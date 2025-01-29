@@ -26,10 +26,10 @@ This is an example of a "Work" page, displaying your work, your interests, your 
 ---
   - title: Control system design of lower limb rehabilitation training robot
     description: Machinery Design & Manufacture, vol. 7, pp. 250–255, 2022.
---
+
   - title: Design and motion planning simulation of multi-track postpartum rehabilitation training instrument
     description: Journal of Zhongyuan University of Technology, vol. 31, no. 4, pp. 15–21, 2020.
---
+
 
 <br />
 <br />
