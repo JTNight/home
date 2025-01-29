@@ -3,7 +3,7 @@ layout: work
 title: Some Publication
 slug: /work
 ---
-This is an example of a "Work" page, displaying your work, your interests, your projects.
+This is a publication page, Displaying my publications.
 
   - "Multi-modal recognition control system for real-time robot welding penetration control and quality enhancement"
     The International Journal of Advanced Manufacturing Technology, vol. 135, no. 9, pp. 4359–4378, 2024.
