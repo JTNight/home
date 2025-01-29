@@ -2,7 +2,8 @@
 layout: work
 title: Some Publication
 slug: /work
-items:
+This is an example of a "Work" page, displaying your work, your interests, your projects.
+
   - title: Multi-modal recognition control system for real-time robot welding penetration control and quality enhancement
     alt: sand
     description: The International Journal of Advanced Manufacturing Technology, vol. 135, no. 9, pp. 4359–4378, 2024
@@ -30,6 +31,5 @@ items:
     description: Journal of Zhongyuan University of Technology, vol. 31, no. 4, pp. 15–21, 2020.
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
 <br />
 <br />
