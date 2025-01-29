@@ -6,8 +6,9 @@ items:
   - title: Multi-modal recognition control system for real-time robot welding penetration control and quality enhancement
     alt: sand
     description: The International Journal of Advanced Manufacturing Technology, vol. 135, no. 9, pp. 4359–4378, 2024
-    
-    title: Digital twin concept and its applications: A review
+---
+  - title: Digital twin concept and its applications: A review
+    alt: sand
     description: Journal of Engineering Science & Technology Review, vol. 17, no. 2, 2024
 ---
   - title: Acoustic signal-based automated control of welding penetration using digital twin technology
