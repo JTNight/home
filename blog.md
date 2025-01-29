@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: blog
+title: Project and Technology
 slug: /blog
 ---
 
