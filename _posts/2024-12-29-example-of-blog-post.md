@@ -22,6 +22,9 @@ and Monitoring**
 Western Digital, Centre of Innovation And Automation Laboratory (CiA lab).  
 **My Contribution:** I developed workpiece recognition detection system based on depth camera
 
+- **Consolidation of Centralized Independent Digital Twin Command System With Real time Connectivity, Monitoring and Control** 
+Western Digital, Centre of Innovation And Automation Laboratory (CiA lab).
+
 - **Research and Application of Rehabilitation Product Styling Design Methods Based on
 User Experience and Feature Knowledge Reasoning**  
 Key Research Programs of Higher Education Institutions in Henan Province, China(19A460033).  
