@@ -11,7 +11,7 @@ og_image: /assets/img/content/post-example/Banner.jpg
 <br />
 
 - **Investigation On The Effect of Hot Forging On The Deformation Behavior And
-Microstructural Response of Wire Arc Additive Manufacturing(WAAM) of High**
+Microstructural Response of Wire Arc Additive Manufacturing(WAAM) of High**  
 Strength Low Alloy(HSLA) Steel Components, Fundamental Research Grant Scheme (FRGS).  
 **My Contribution:** I established the prototype platform for the digital twin
 system of the KUKA welding robot. I also designed the robot multimodal recognition network
