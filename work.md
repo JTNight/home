@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Some project & Tech
+title: Some Publication
 slug: /work
 items:
   - title: Multi-modal recognition control system for real-time robot welding penetration control and quality enhancement
