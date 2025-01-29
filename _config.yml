@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Project
-      slug: /me
+      slug: /work
     - name: Publication
       slug: /blog
     - name: aboutme
