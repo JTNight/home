@@ -6,9 +6,6 @@ blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
-<br />
-<br />
 
 <video width="640" height="360" controls>
   <source src="{{ "/assets/videos/signal anysis.mp4" | relative_url }}" type="video/mp4">
