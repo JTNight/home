@@ -2,7 +2,7 @@
 layout: work
 title: Some Publication
 slug: /work
-
+---
 This is an example of a "Work" page, displaying your work, your interests, your projects.
 
   - title: Multi-modal recognition control system for real-time robot welding penetration control and quality enhancement
