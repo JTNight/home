@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Automatic Signal Feature Analysis System"
+title:  "Offshore Wind Power Equipment Maintenance Solution"
 date:   2024-12-26 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
