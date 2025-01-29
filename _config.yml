@@ -13,7 +13,7 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Project
+    - name: Some Project & Tech
       slug: /work
     - name: Publication
       slug: /blog
