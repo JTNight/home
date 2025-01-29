@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post example"
+title:  "Project experience (summary, updated)"
 date:   2024-12-29 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
