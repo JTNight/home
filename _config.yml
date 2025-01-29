@@ -13,9 +13,9 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Some Project & Tech
-      slug: /work
     - name: Some Publication
+      slug: /work
+    - name: Some Project & Tech
       slug: /blog
 
 footer:
